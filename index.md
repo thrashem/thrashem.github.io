@@ -1,7 +1,9 @@
 ---
-layout: default
+layout: none
 title: thrashem's Github Pages
 ---
+# thrashem's Github Pages
+***
 リポジトリ一覧:  
   
 [thrashem/AniStream:](https://github.com/thrashem/AniStream) 日本国内で配信されているアニメのスケジュール情報を提供する、静的なAPIリポジトリです。(json)  
